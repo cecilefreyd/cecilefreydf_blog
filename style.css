@@ -1,0 +1,43 @@
+html {
+    font-family: 'happy-times-NG_regular_master_web', serif; 
+    background-color: #EFF3F9;
+    font-size: 1 rem;
+  }
+
+
+@font-face {
+    font-family: 'happy-times-regular';
+    src: url(/Users/cecilefreyd-foucault/Desktop/site_podcast/typo/Happy-Times-at-the-IKOB-master/fonts/webfonts/happy-times-NG_regular_master_web.woff);
+}
+
+@font-face {
+    font-family: 'Atkinson' ;
+    src: url(/Users/cecilefreyd-foucault/Desktop/site_podcast/typo//Atkinson/Web_fonts/WOFF/Atkinson-Hyperlegible-Regular-102.woff);
+}
+
+H1, h2, p, a {
+    color: rgb(3, 3, 22);
+    font-family: 'Atkinson';
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+}
+
+strong {
+    font-family: 'happy-times-regular';
+}
+
+body {
+    width: 80%;
+    
+}
