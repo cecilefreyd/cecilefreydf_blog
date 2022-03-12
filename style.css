@@ -43,5 +43,13 @@ strong {
 
 body {
     width: 80%;
-    
+    margin: 5%;
+}
+
+.invite-1 {
+    color:#5C00F2;
+}
+
+.invite-2 {
+    color:#CF0258;
 }
