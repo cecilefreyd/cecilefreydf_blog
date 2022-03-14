@@ -11,13 +11,23 @@ html {
 }
 
 @font-face {
-    font-family: 'Atkinson' ;
+    font-family: 'Atkinson';
     src: url(Atkinson-Hyperlegible-Regular-102.woff);
 }
+
 
 H1, h2, h3, p, a,li {
     color: rgb(3, 3, 22);
     font-family: 'Atkinson';
+}
+
+a:hover {
+    background-color: yellow;
+    color: #000;
+}
+
+a:visited {
+    color: blue;
 }
 
 h1 {
