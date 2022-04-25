@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <title>Rapide REX Devoxx 2022</title>
+    <meta charset="utf-8">
+    <title>Rapide REX Devoxx 2022</title>
+    <link rel="shortcut icon" href="favicon_io/favicon.ico" type="image/x-icon">
+
+
+    <meta name="description" content="">
+
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="happy-times-NG_regular_master_web.woff" rel="stylesheet">
+    <link href="Atkinson-Hyperlegible-Regular-102.woff" rel="stylesheet">
+</head>
+
+<body>
+
+    <H1>REX rapide de Devoxx 2022</H1>
+
+
+
+    <p>Je fais un petit retours rapide de mes 2,5 jours à Devoxx
+    </p>
+    <h2>1e jour</h2>
+    <p>J’arrive dans l'après midi et je fais le tour des copains</p>
+    <h3>2 tools-in-action</h3>
+    <ul>
+        <li>Pourquoi vous n'attirerez et ne retiendrez pas les femmes dans vos équipes tech ! Par Marcy Ericka
+            Charollois</li>
+
+        <li>Rendez l'agilité aux développeur(se)s ! Par Fanny Klauk.Un talk très interessant autours de 4 situations que
+            l’ont retrouve trop souvent sur nos projets qui sont des travers de nos pratiques. Je recommande de voir le
+            replay
+        </li>
+    </ul>
+
+    <p>Le speaker diner : l’occasion de revoir pleins de personnes et d’en rencontrer des nouvelles</p>
+
+    <h2>2e jour </h2>
+    <h3>Les keynotes :</h3>
+    <p>petites rétrospective des 10 dernières années (Devoxx et tech) mais surtout un présentation de Frédéric Bordage
+        de Green IT qui nous rappel que la planète brule et que ça serai pas mal qu’on se bouge !
+    </p>
+    <p>Je n’ai rien vu d’autres car j’ai passé une partie de la journée à finir mes solides (classique), répéter et
+        stresser
+    </p>
+    <h3>Mon talk : </h3>
+    <p>ne salle bien rempli et de super retours ! J’étais fière de parler notamment du projet sur lequel je
+        travaille en ce moment, de l’équipe et de Lama System !</p>
+
+    <h3>Les bofs :</h3>
+    <p>j’ai participé à ceux organiser par Tadx</p>
+    <ul>
+        <li>Discussion autours de la pratique du devrel. Il s’agit d’un milieu dans lequel je baigne de par mon
+            entourage du
+            coup c’est toujours interessant d’avoir les différents points de vu</li>
+        <li>Les Duchesses pour parler place de la femme dans la tech et ça fait du bien d’avoir des témoignages de
+            « rôles modèles »</li>
+    </ul>
+        <H2>3e jour </H2>
+
+        <p>Je n’ai pas vu les keynotes car arrivé à 9h (le couché à 4h de la veille commence à piquer)</p>
+        <h3>Les talks</h3>
+        <ul>
+            <li> Développ(eur|euse) Senior avec 6 ans d’expérience, et après ?
+                Par Hugo Lassiege et Dimitri BAELIJ’avoue mettre un peu endormi (fatigue) mais ce que j’en retiens c’est
+                qu’on est pas obligé d’être manager !</li>
+            <li> Notre cerveau est "null"! Quelques biais cognitifs appliqués au métier de dev... par Sylvain Coudert
+                Mon talk préféré, un super orateur qui parle des biais que l’on a sur nos projets et comment y échapper,
+                je recommande vraiment</li>
+
+
+            <li>Mon site déjà en ligne doit être accessible, je fais comment ? Par Mélanie Boudard. Quickie que j’ai
+                adoré et que je recommande pour son aspect très pragmatique.</li>
+            <li>Développement sans fron-Tiers par Jordane Grenat. Bon j’avoue ne pas avoir tout compris mais c’était
+                intéressant de mon point de vue de designeuse (et il fallait bien aller voir les copains)
+            </li>
+            <li>Les Cast Codeurs en 🪑 et en 🦴 par les CastcodersUne petite rétrospective des éditions précédentes
+                émouvante et
+                marrante, une manifestation de gilets rouges et j’ai participer au marché aux poissons (limite plus
+                stressant que
+                mon propre talk)</li>
+        </ul>
+        <p>Pour conclure, trois journées éreintantes, où je n’ai pas vu beaucoup de talks mais où j’ai pu échanger sur
+            pleins
+            de sujets : design system, accessibilité, chats, place de la femme dans notre milieu… j’ai passé pas mal de
+            temps à
+            faire des allers retours entre les stands de Clever Cloud et OVH, à rire, somnoler, boire des cafés (et des
+            bières)…
+            Bref, c’était trois journées géniales !</p>
+</body>
+
+
+
+</html>
