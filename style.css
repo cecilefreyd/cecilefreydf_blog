@@ -18,7 +18,7 @@ html {
 
 H1, h2, h3, p, a,li {
     color: rgb(3, 3, 22);
-    font-family: 'Atkinson';
+    font-family: 'Atkinson', sans-serif;
 }
 
 a:hover {
@@ -48,7 +48,7 @@ p, li {
 }
 
 strong {
-    font-family: 'happy-times-regular';
+    font-family: 'happy-times-regular', serif;
 }
 
 body {
