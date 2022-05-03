@@ -16,7 +16,7 @@ html {
 }
 
 
-H1, h2, h3, p, a,li {
+h1, h2, h3, p, a,li {
     color: rgb(3, 3, 22);
     font-family: 'Atkinson', sans-serif;
 }
