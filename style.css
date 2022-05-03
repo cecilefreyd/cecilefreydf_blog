@@ -7,12 +7,12 @@ html {
 
 @font-face {
     font-family: 'happy-times-regular';
-    src: url(happy-times-NG_regular_master_web.woff);
+    src: url("/happy-times-NG_regular_master_web.woff") format("woff");
 }
 
 @font-face {
     font-family: 'Atkinson';
-    src: url(Atkinson-Hyperlegible-Regular-102.woff);
+    src: url("/Atkinson-Hyperlegible-Regular-102.woff") format("woff");
 }
 
 
