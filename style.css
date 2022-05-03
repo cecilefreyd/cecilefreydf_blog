@@ -1,5 +1,4 @@
 html {
-    font-family: 'happy-times-NG_regular_master_web', serif; 
     background-color: #EFF3F9;
     font-size: 1rem;
   }
@@ -16,7 +15,7 @@ html {
 }
 
 
-h1, h2, h3, p, a,li {
+body,h1, h2, h3, p, a,li {
     color: rgb(3, 3, 22);
     font-family: 'Atkinson', sans-serif;
 }
