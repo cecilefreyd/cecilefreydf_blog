@@ -1,68 +1,68 @@
 html {
-    background-color: #EFF3F9;
-    font-size: 1rem;
-  }
-
-
-@font-face {
-    font-family: 'happy-times-regular';
-    src: url("/happy-times-NG_regular_master_web.woff") format("woff");
+  background-color: #eff3f9;
+  font-size: 1rem;
 }
 
 @font-face {
-    font-family: 'Atkinson';
-    src: url("/Atkinson-Hyperlegible-Regular-102.woff") format("woff");
+  font-family: "Atkinson";
+  src: url("/Atkinson-Hyperlegible-Regular-102.ttf") format("truetype");
 }
 
-
-body,h1, h2, h3, p, a,li {
-    color: rgb(3, 3, 22);
-    font-family: 'Atkinson', sans-serif;
+body,
+strong,
+h1,
+h2,
+h3,
+p,
+li {
+  color: rgb(3, 3, 22);
+  font-family: "Atkinson", sans-serif;
 }
 
 a:hover {
-    background-color: yellow;
-    color: #000;
+  background-color: yellow;
+  color: #000;
 }
 
 a:visited {
-    color: blue;
+  color: blue;
 }
 
 h1 {
-    font-size: 3rem;
+  font-size: 3rem;
 }
 
 h2 {
-    font-size: 2rem;
+  font-size: 2rem;
 }
 
 h3 {
-    font-size: 1.5rem;
+  font-size: 1.5rem;
 }
 
-p, li {
-    font-size: 1.25rem;
-    line-height: 1.5rem;
-}
-
-strong {
-    font-family: 'happy-times-regular', serif;
+p,
+li {
+  font-size: 1.25rem;
+  line-height: 1.5rem;
 }
 
 body {
-    width: 80%;
-    margin: 5%;
+  width: 80%;
+  margin: 5%;
+}
+
+li {
+  padding: 8px;
 }
 
 .invite-1 {
-    color:#5C00F2;
+  color: #5c00f2;
 }
 
 .invite-2 {
-    color:#CF0258;
+  color: #cf0258;
 }
 
 .img_article {
-    width: 50%;
+  width: 50%;
 }
