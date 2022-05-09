@@ -4,7 +4,12 @@ html {
 
 @font-face {
   font-family: "Atkinson";
-  src: url("/Atkinson-Hyperlegible-Regular-102.ttf") format("truetype");
+  src: url("./Atkinson-Hyperlegible-Regular-102.ttf") format("truetype");
+}
+
+body {
+background-color: #eff3f9;
+padding: 0 5%;
 }
 
 body,
@@ -17,6 +22,8 @@ li {
   color: rgb(3, 3, 22);
   font-family: "Atkinson", sans-serif;
 }
+
+
 
 a:hover {
   background-color: yellow;
@@ -39,18 +46,16 @@ h3 {
   font-size: 1.5rem;
 }
 
+a,
 p,
-li {
+li,
+div {
   font-size: 1.25rem;
   line-height: 1.5rem;
 }
 
-body {
-  background-color: #eff3f9;
-  padding: 0 5%;
-}
-
-li {
+li,
+div {
   padding: 8px;
 }
 
@@ -65,3 +70,18 @@ li {
 .img_article {
   width: 50%;
 }
+
+nav {
+  padding: 24px 0px 24px 0px;}
+
+  @media print {
+    * {
+      display: none;
+    }
+
+    html,
+    body
+    {
+      display: block;
+    }
+  }
