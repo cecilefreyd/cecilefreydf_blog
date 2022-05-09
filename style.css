@@ -8,8 +8,8 @@ html {
 }
 
 body {
-background-color: #eff3f9;
-padding: 0 5%;
+  background-color: #eff3f9;
+  padding: 0 5%;
 }
 
 body,
@@ -22,8 +22,6 @@ li {
   color: rgb(3, 3, 22);
   font-family: "Atkinson", sans-serif;
 }
-
-
 
 a:hover {
   background-color: yellow;
@@ -49,7 +47,6 @@ h3 {
 h4 {
   font-size: 1.5rem;
 }
-
 
 a,
 p,
@@ -77,16 +74,28 @@ div {
 }
 
 nav {
-  padding: 24px 0px 24px 0px;}
+  padding: 24px 0px 24px 0px;
+}
 
-  @media print {
-    * {
-      display: none;
-    }
-
-    html,
-    body
-    {
-      display: block;
-    }
+@media print {
+  * {
+    display: none;
   }
+
+  html,
+  body,
+  article,
+  #checklist_rex_musee,
+  #checklist_rex_musee * {
+    display: block;
+  }
+
+  #checklist_rex_musee > a {
+    display: none;
+  }
+
+  #checklist_rex_musee input,
+  #checklist_rex_musee label {
+    display: inline-block;
+  }
+}
