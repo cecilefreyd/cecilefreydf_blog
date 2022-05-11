@@ -69,12 +69,21 @@ div {
   color: #cf0258;
 }
 
+strong {
+  color: #5c00f2;
+}
+
 .img_article {
   width: 50%;
 }
 
 nav {
   padding: 24px 0px 24px 0px;
+}
+
+article {
+  margin: 80px 24px 80px 24px;
+
 }
 
 @media print {
@@ -99,3 +108,4 @@ nav {
     display: inline-block;
   }
 }
+
