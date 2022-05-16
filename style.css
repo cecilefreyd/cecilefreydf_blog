@@ -70,7 +70,19 @@ div {
 }
 
 .emphase {
-background-color: yellow;}
+background-color: #25d9cc45;}
+
+.bloc-emphase {
+  padding: 8px 24px;
+  border-radius: 16px;
+
+margin: 24px 0px;
+background-color: #25d9cc45;
+}
+
+.title-emphase {
+  margin: 16px 0px;
+}
 
 .img_article {
   width: 50%;
