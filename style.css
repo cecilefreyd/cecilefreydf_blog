@@ -70,7 +70,10 @@ div {
 }
 
 .emphase {
-background-color: #25d9cc45;}
+background-color: #25d9cc45;
+font-size: 1.25rem;
+  line-height: 1.5rem;
+}
 
 .bloc-emphase {
   padding: 8px 24px;
