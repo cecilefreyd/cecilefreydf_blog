@@ -20,8 +20,9 @@ h3,
 p,
 li {
   color: rgb(3, 3, 22);
-  font-family: "Atkinson", sans-serif;
+  font-family: "Atkinson", arial, sans-serif;
 }
+
 
 a:hover {
   background-color: yellow;
