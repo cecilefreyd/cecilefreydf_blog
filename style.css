@@ -92,6 +92,12 @@ background-color: #25d9cc45;
   width: 50%;
 }
 
+
+img {
+max-width : 100%;
+height : auto;
+}
+
 nav {
   padding: 24px 0px 24px 0px;
 }
