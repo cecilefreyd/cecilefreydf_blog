@@ -3,7 +3,7 @@ html {
 }
 
 @font-face {
-  font-family: "Atkinson";
+  font-family: "Atkinson", "arial", sans-serif;
   src: url("./Atkinson-Hyperlegible-Regular-102.ttf") format("truetype");
 }
 
@@ -20,7 +20,7 @@ h3,
 p,
 li {
   color: rgb(3, 3, 22);
-  font-family: "Atkinson", arial, sans-serif;
+  font-family: "Atkinson", "arial", sans-serif;
 }
 
 
