@@ -1,0 +1,171 @@
+html {
+  font-size: 1rem;
+  --primary: #;
+  --primary-lighter: #E9F3F3;
+  --primary-darker: #487E82;
+  --content: #444B5A;
+  --secondary: #;
+
+  --bold: 700;
+
+  --text-base: 1rem;
+  --text-m: 2rem;
+  --text-l: 3rem;
+}
+
+@font-face {
+  font-family: "Atkinson", "arial", sans-serif;
+  src: url("./typo/Atkinson-Hyperlegible-Regular-102.woff") format("truetype");
+  src: url("./typo/Atkinson-Hyperlegible-Bold-102.woff") format("");
+}
+
+body {
+  background-color: var(--primary-lighter);
+  padding: 0 5%;
+}
+
+body,
+strong,
+h1,
+h2,
+h3,
+p,
+li {
+  color: rgb(3, 3, 22);
+  font-family: "Atkinson", "arial", sans-serif;
+}
+
+header {
+
+  display: flex;
+  flex-direction: row;
+
+}
+
+.nav-header {
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-link-li {
+  list-style: none;
+  
+}
+
+.nav-link {
+  text-decoration: none;
+  color: var(--content);
+  font-weight: var(--bold);
+  font-size: var(--text-m);
+}
+
+a:hover {
+  background-color: yellow;
+  color: #000;
+}
+
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+a,
+p,
+li,
+div {
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+}
+
+li,
+div {
+  padding: 8px;
+}
+
+.invite-1 {
+  color: #5c00f2;
+}
+
+.invite-2 {
+  color: #cf0258;
+}
+
+.emphase {
+background-color: #25d9cc45;
+font-size: 1.25rem;
+  line-height: 1.5rem;
+}
+
+.bloc-emphase {
+  padding: 8px 24px;
+  border-radius: 16px;
+
+margin: 24px 0px;
+background-color: #25d9cc45;
+}
+
+.title-emphase {
+  margin: 16px 0px;
+}
+
+.img_article {
+  width: 50%;
+}
+
+
+img {
+max-width: 100%;
+height: auto;
+}
+
+nav {
+  padding: 24px 0px 24px 0px;
+}
+
+article {
+  margin: 80px 0px 80px 0px;
+
+}
+
+@media print {
+  * {
+    display: none;
+  }
+
+  html,
+  body,
+  article,
+  #checklist_rex_musee,
+  #checklist_rex_musee * {
+    display: block;
+  }
+
+  #checklist_rex_musee > a {
+    display: none;
+  }
+
+  #checklist_rex_musee input,
+  #checklist_rex_musee label {
+    display: inline-block;
+  }
+}
+
+footer {
+  margin-top: 4rem
+}
+
+back_link {
+  margin-top : 2rem
+}
