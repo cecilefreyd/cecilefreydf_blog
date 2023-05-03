@@ -2,15 +2,18 @@ html {
   font-size: 1rem;
   --primary: #;
   --primary-lighter: #E9F3F3;
-  --primary-darker: #487E82;
+  --primary-darker: #2E6468;
   --content: #444B5A;
   --secondary: #;
 
   --bold: 700;
+  --regular: 400;
 
   --text-base: 1rem;
-  --text-m: 2rem;
-  --text-l: 3rem;
+  --text-m: 1.5rem;
+  --text-l: 2rem;
+  --text-xl: 3rem;
+ 
 }
 
 @font-face {
@@ -21,8 +24,8 @@ html {
 
 body {
   background-color: var(--primary-lighter);
-  padding: 0 5%;
-}
+  margin: 40px 20%;
+  }
 
 body,
 strong,
@@ -31,7 +34,6 @@ h2,
 h3,
 p,
 li {
-  color: rgb(3, 3, 22);
   font-family: "Atkinson", "arial", sans-serif;
 }
 
@@ -39,12 +41,15 @@ header {
 
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 
 }
 
 .nav-header {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
+
 }
 
 .nav-link-li {
@@ -59,40 +64,49 @@ header {
   font-size: var(--text-m);
 }
 
+a {
+  text-decoration: none;
+  color: var(--primary-darker);
+}
+
 a:hover {
   background-color: yellow;
   color: #000;
 }
 
+/*section*/
 
-h1 {
-  font-size: 3rem;
+#title {
+  color: var(--primary-darker);
+  font-size: var(--text-xl);
 }
 
-h2 {
-  font-size: 2rem;
+.section-intro {
+  color: var(--content);
+  font-size: var(--text-m);
+  font-weight: var(--bold);
 }
 
-h3 {
-  font-size: 1.75rem;
+.section-title {
+  color: var(--content);
 }
 
-h4 {
-  font-size: 1.5rem;
+.section-subtitle {
+ color: var(--content);
 }
 
-a,
-p,
-li,
-div {
-  font-size: 1.25rem;
-  line-height: 1.5rem;
+
+.section {
+border: solid var(--content);
+border-radius: 1rem;
+
+padding: 1rem 2rem;
+
+margin-top: 40px;
+
 }
 
-li,
-div {
-  padding: 8px;
-}
+/*Podcast*/
 
 .invite-1 {
   color: #5c00f2;
@@ -138,6 +152,8 @@ article {
   margin: 80px 0px 80px 0px;
 
 }
+
+
 
 @media print {
   * {
