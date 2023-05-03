@@ -24,7 +24,7 @@ html {
 
 body {
   background-color: var(--primary-lighter);
-  margin: 40px 20%;
+  margin: 40px 10%;
   }
 
 body,
@@ -37,13 +37,13 @@ li {
   font-family: "Atkinson", "arial", sans-serif;
 }
 
-header {
+/**header {
 
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 
-}
+}*/
 
 .nav-header {
   display: flex;
@@ -64,14 +64,41 @@ header {
   font-size: var(--text-m);
 }
 
+/**pragraphes*/
+
+p, li {
+  color: var(--content);
+  font-size: var(--text-base);
+  line-height: 1.5rem;
+}
+
+/**link*/
+
 a {
   text-decoration: none;
   color: var(--primary-darker);
+  inter
+;
+
+  
 }
 
 a:hover {
-  background-color: yellow;
-  color: #000;
+  background-color: var(--primary-darker);
+  color: var(--primary-lighter)
+}
+
+/*liste*/
+
+ul {
+  padding: 0;
+}
+
+
+li{
+  padding-bottom: 16px;
+  list-style: none;
+  list-style-position: inside;
 }
 
 /*section*/
@@ -83,16 +110,18 @@ a:hover {
 
 .section-intro {
   color: var(--content);
-  font-size: var(--text-m);
+  font-size: var(--text-base);
   font-weight: var(--bold);
 }
 
 .section-title {
   color: var(--content);
+  font-size: var(--text-l);
 }
 
 .section-subtitle {
  color: var(--content);
+ font-size: var(--text-m);
 }
 
 
@@ -100,10 +129,21 @@ a:hover {
 border: solid var(--content);
 border-radius: 1rem;
 
-padding: 1rem 2rem;
+padding: 0rem 2.5rem 1rem 2.5rem;
 
 margin-top: 40px;
 
+}
+
+.section-inverse {
+  border-radius: 1rem;
+  background-color: var(--primary-darker);
+
+  padding: 1rem 2rem;
+
+margin-top: 40px;
+
+color: var(--primary-lighter);
 }
 
 /*Podcast*/
@@ -148,12 +188,13 @@ nav {
   padding: 24px 0px 24px 0px;
 }
 
+/**
 article {
   margin: 80px 0px 80px 0px;
 
 }
 
-
+**/
 
 @media print {
   * {
