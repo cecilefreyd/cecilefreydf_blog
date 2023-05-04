@@ -1,9 +1,9 @@
 html {
   font-size: 1rem;
   --primary: #;
-  --primary-lighter: #E9F3F3;
-  --primary-darker: #2E6468;
-  --content: #444B5A;
+  --primary-lighter: #F0F0F0;
+  --primary-darker: #623B74;
+  --content: #313949;
   --secondary: #;
 
   --bold: 700;
@@ -13,6 +13,7 @@ html {
   --text-m: 1.5rem;
   --text-l: 2rem;
   --text-xl: 3rem;
+  --text-xxl: 3.5rem;
  
 }
 
@@ -77,15 +78,24 @@ p, li {
 a {
   text-decoration: none;
   color: var(--primary-darker);
-  inter
 ;
-
   
 }
 
 a:hover {
   background-color: var(--primary-darker);
   color: var(--primary-lighter)
+}
+
+.article_link {
+  font-size: var(--text-m);
+  font-weight: var(--bold);
+
+}
+
+li {
+  display: flex;
+  flex-direction: column;
 }
 
 /*liste*/
@@ -96,7 +106,7 @@ ul {
 
 
 li{
-  padding-bottom: 16px;
+  padding-bottom: 24px;
   list-style: none;
   list-style-position: inside;
 }
@@ -105,36 +115,35 @@ li{
 
 #title {
   color: var(--primary-darker);
-  font-size: var(--text-xl);
+  font-size: var(--text-xxl);
 }
 
 .section-intro {
   color: var(--content);
-  font-size: var(--text-base);
+  font-size: var(--text-m);
   font-weight: var(--bold);
 }
 
 .section-title {
   color: var(--content);
-  font-size: var(--text-l);
+  font-size: var(--text-xl);
 }
 
 .section-subtitle {
  color: var(--content);
- font-size: var(--text-m);
+ font-size: var(--text-l);
 }
 
-
+/**
 .section {
 border: solid var(--content);
 border-radius: 1rem;
 
-padding: 0rem 2.5rem 1rem 2.5rem;
 
 margin-top: 40px;
 
 }
-
+**/
 .section-inverse {
   border-radius: 1rem;
   background-color: var(--primary-darker);
