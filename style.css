@@ -1,15 +1,15 @@
 html {
   font-size: 1rem;
   --primary: #;
-  --primary-lighter: #F0F0F0;
+  --primary-lighter: #FEFCFF;
   --primary-darker: #623B74;
   --content: #313949;
-  --secondary: #;
+  --secondary: #2E6468;
 
   --bold: 700;
   --regular: 400;
 
-  --text-base: 1rem;
+  --text-base: 1.25rem;
   --text-m: 1.5rem;
   --text-l: 2rem;
   --text-xl: 3rem;
@@ -24,8 +24,11 @@ html {
 }
 
 body {
-  background-color: var(--primary-lighter);
-  margin: 40px 10%;
+  
+margin-top: 40px;
+margin-left: 20%;
+margin-right: 20%;
+
   }
 
 body,
@@ -36,6 +39,10 @@ h3,
 p,
 li {
   font-family: "Atkinson", "arial", sans-serif;
+}
+
+.icon {
+  width: 1.25rem;
 }
 
 /**header {
@@ -78,13 +85,15 @@ p, li {
 a {
   text-decoration: none;
   color: var(--primary-darker);
+  font-weight: var(--bold)
 ;
   
 }
 
 a:hover {
-  background-color: var(--primary-darker);
-  color: var(--primary-lighter)
+  /**background-color: var(--primary-darker);
+  color: var(--primary-lighter);**/
+  text-decoration: underline dotted;
 }
 
 .article_link {
@@ -93,19 +102,31 @@ a:hover {
 
 }
 
-li {
+.a-emphase-bloc {
+  background-color: var(--primary-darker);
+  color: var(--primary-lighter);
+
+  padding: 1rem;
+
+}
+
+.a-emphase {
+  color: var(--primary-lighter);
+}
+
+/**li {
   display: flex;
   flex-direction: column;
 }
 
-/*liste*/
+/*liste nav*/
 
-ul {
+.ul-nav {
   padding: 0;
 }
 
 
-li{
+.li-nav{
   padding-bottom: 24px;
   list-style: none;
   list-style-position: inside;
@@ -126,6 +147,11 @@ li{
 
 .section-title {
   color: var(--content);
+  font-size: var(--text-xl);
+}
+
+#article-title {
+  color: var(--primary-darker);
   font-size: var(--text-xl);
 }
 
@@ -166,9 +192,16 @@ color: var(--primary-lighter);
 }
 
 .emphase {
-background-color: #25d9cc45;
+/**background-color: var(--secondary);**/
 font-size: 1.25rem;
   line-height: 1.5rem;
+  color: var(--content);
+  font-weight: var(--bold);
+}
+
+.section-emphase {
+  border: solid 1px var(--primary-darker);
+  padding: 1rem 2rem;
 }
 
 .bloc-emphase {
@@ -176,7 +209,7 @@ font-size: 1.25rem;
   border-radius: 16px;
 
 margin: 24px 0px;
-background-color: #25d9cc45;
+background-color: var(--secondary);
 }
 
 .title-emphase {
