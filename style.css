@@ -20,14 +20,14 @@ html {
 @font-face {
   font-family: "Atkinson", "arial", sans-serif;
   src: url("./typo/Atkinson-Hyperlegible-Regular-102.woff") format("truetype");
-  src: url("./typo/Atkinson-Hyperlegible-Bold-102.woff") format("");
+  src: url("./typo/Atkinson-Hyperlegible-Bold-102.woff") format("truetype");
 }
 
 body {
   
 margin-top: 40px;
-margin-left: 20%;
-margin-right: 20%;
+margin-left: 160px;
+width: 60%;
 
   }
 
@@ -42,7 +42,14 @@ li {
 }
 
 .icon {
-  width: 1.25rem;
+  width: 1rem;
+  padding-left: 0.25rem;
+}
+
+.back-link {
+  margin-top : 2rem;
+  display: flex;
+  align-items: center;
 }
 
 /**header {
@@ -74,10 +81,12 @@ li {
 
 /**pragraphes*/
 
-p, li {
+p, li, q {
   color: var(--content);
   font-size: var(--text-base);
-  line-height: 1.5rem;
+  line-height: 1.75rem;
+
+
 }
 
 /**link*/
@@ -85,9 +94,16 @@ p, li {
 a {
   text-decoration: none;
   color: var(--primary-darker);
-  font-weight: var(--bold)
+  font-weight: var(--bold);
+  font-size: var(--text-base)
+
 ;
   
+}
+
+.a-icon {
+  display: flex;
+  align-items: center;
 }
 
 a:hover {
@@ -107,6 +123,9 @@ a:hover {
   color: var(--primary-lighter);
 
   padding: 1rem;
+ 
+
+  display: inline-block;
 
 }
 
@@ -114,6 +133,8 @@ a:hover {
   color: var(--primary-lighter);
 }
 
+fieldset {
+border: none;}
 /**li {
   display: flex;
   flex-direction: column;
@@ -130,6 +151,18 @@ a:hover {
   padding-bottom: 24px;
   list-style: none;
   list-style-position: inside;
+
+  display: flex;
+  flex-direction: column;
+}
+
+/*list*/
+
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
 }
 
 /*section*/
@@ -143,6 +176,10 @@ a:hover {
   color: var(--content);
   font-size: var(--text-m);
   font-weight: var(--bold);
+}
+
+.section-article {
+  margin-top: 4rem;
 }
 
 .section-title {
@@ -160,6 +197,11 @@ a:hover {
  font-size: var(--text-l);
 }
 
+.para-title {
+  color: var(--secondary);
+  font-size: var(--text-m);
+  margin-top: 2rem;
+}
 /**
 .section {
 border: solid var(--content);
@@ -191,17 +233,16 @@ color: var(--primary-lighter);
   color: #cf0258;
 }
 
-.emphase {
+em {
 /**background-color: var(--secondary);**/
-font-size: 1.25rem;
-  line-height: 1.5rem;
   color: var(--content);
   font-weight: var(--bold);
+  font-style: normal;
 }
 
 .section-emphase {
-  border: solid 1px var(--primary-darker);
-  padding: 1rem 2rem;
+  border: solid 2px var(--primary-darker);
+  padding: 2rem 2rem;
 }
 
 .bloc-emphase {
@@ -262,9 +303,8 @@ article {
 }
 
 footer {
-  margin-top: 4rem
+  margin-top: 2rem;
+  font-size: var(--text-base);
 }
 
-back_link {
-  margin-top : 2rem
-}
+
