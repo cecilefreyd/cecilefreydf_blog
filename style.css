@@ -24,13 +24,22 @@ html {
 }
 
 body {
-  
 margin-top: 40px;
-margin-left: 160px;
+margin-left: 120px;
 width: 60%;
 
   }
 
+  @media (max-width: 480px) {
+    body {
+      margin-top: 16px;
+      margin-left: 16px;
+      margin-right: 16px;
+      width: 100%;
+  }
+
+ 
+  
 body,
 strong,
 h1,
@@ -116,7 +125,7 @@ a:hover {
   text-decoration: underline dotted;
 }
 
-.article_link {
+.article-link {
   font-size: var(--text-m);
   font-weight: var(--bold);
 
