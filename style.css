@@ -6,27 +6,29 @@ html {
   --content: #313949;
   --secondary: #2e6468;
 
-  --citation: "libre baskerville"
+  --citation: "georgia";
 
   --bold: 700;
   --regular: 400;
 
-  --text-base: 1.25rem;
+  --text-base: 1rem;
   --text-m: 1.5rem;
   --text-l: 2rem;
   --text-xl: 3rem;
   --text-xxl: 3.5rem;
+
+  --font-line-base: 1.75rem;
 }
 
 @font-face {
   font-family: "Atkinson", "arial", sans-serif;
   src: url("./typo/Atkinson-Hyperlegible-Regular-102.woff") format("truetype");
   src: url("./typo/Atkinson-Hyperlegible-Bold-102.woff") format("truetype");
+  src: url("./typo/Atkinson-Hyperlegible-Italic-102.woff") format("truetype");
 }
 
 @font-face {
-  font-family: "Libre Baskerville", "times new roman", serif;
-  src: url(./typo/LibreBaskerville-Regular.ttf) format("");
+  font-family: Georgia, serif;
 }
 
 body {
@@ -99,10 +101,10 @@ li {
 p,
 li,
 q,
-label {
+label, blockquote {
   color: var(--content);
   font-size: var(--text-base);
-  line-height: 1.75rem;
+  line-height: var(--font-line-base);
 }
 
 /**link*/
@@ -213,9 +215,16 @@ ul {
   margin-top: 2rem;
 }
 
-q {
+q, blockquote {
   color: var(--primary-darker);
   quotes: "« " " »" "‹" "›";
+
+  font-family: "Georgia", serif;
+  font-size:var(--text-base);
+}
+
+cite {
+  font-style:italic;
 }
 /**
 .section {
