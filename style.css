@@ -27,10 +27,6 @@ html {
   src: url("./typo/Atkinson-Hyperlegible-Italic-102.woff") format("truetype");
 }
 
-@font-face {
-  font-family: Georgia, serif;
-}
-
 body {
   margin-top: 40px;
   margin-left: 120px;
@@ -101,7 +97,8 @@ li {
 p,
 li,
 q,
-label, blockquote {
+label,
+blockquote {
   color: var(--content);
   font-size: var(--text-base);
   line-height: var(--font-line-base);
@@ -215,16 +212,17 @@ ul {
   margin-top: 2rem;
 }
 
-q, blockquote {
+q,
+blockquote {
   color: var(--primary-darker);
   quotes: "« " " »" "‹" "›";
 
   font-family: "Georgia", serif;
-  font-size:var(--text-base);
+  font-size: var(--text-base);
 }
 
 cite {
-  font-style:italic;
+  font-style: italic;
 }
 /**
 .section {
