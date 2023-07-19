@@ -48,7 +48,8 @@ h1,
 h2,
 h3,
 p,
-li {
+li, 
+details {
   font-family: "Atkinson", "arial", sans-serif;
 }
 
@@ -98,7 +99,8 @@ p,
 li,
 q,
 label,
-blockquote {
+blockquote,
+details {
   color: var(--content);
   font-size: var(--text-base);
   line-height: var(--font-line-base);
