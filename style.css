@@ -6,6 +6,8 @@ html {
   --content: #313949;
   --secondary: #2e6468;
 
+  --citation: "libre baskerville"
+
   --bold: 700;
   --regular: 400;
 
@@ -20,6 +22,11 @@ html {
   font-family: "Atkinson", "arial", sans-serif;
   src: url("./typo/Atkinson-Hyperlegible-Regular-102.woff") format("truetype");
   src: url("./typo/Atkinson-Hyperlegible-Bold-102.woff") format("truetype");
+}
+
+@font-face {
+  font-family: "Libre Baskerville", "times new roman", serif;
+  src: url(./typo/LibreBaskerville-Regular.ttf) format("");
 }
 
 body {
@@ -204,6 +211,11 @@ ul {
   color: var(--secondary);
   font-size: var(--text-m);
   margin-top: 2rem;
+}
+
+q {
+  color: var(--primary-darker);
+  quotes: "« " " »" "‹" "›";
 }
 /**
 .section {
