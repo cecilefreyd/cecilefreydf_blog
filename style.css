@@ -12,8 +12,8 @@ html {
   --regular: 400;
 
   --text-base: 1rem;
-  --text-m: 1.5rem;
-  --text-l: 2rem;
+  --text-m: 2rem;
+  --text-l: 2.5rem;
   --text-xl: 3rem;
   --text-xxl: 3.5rem;
 
@@ -184,6 +184,12 @@ ul {
   font-size: var(--text-xxl);
 }
 
+#article-title {
+  color: var(--secondary);
+  font-size: var(--text-xl);
+}
+
+
 .section-intro {
   color: var(--content);
   font-size: var(--text-m);
@@ -199,10 +205,6 @@ ul {
   font-size: var(--text-xl);
 }
 
-#article-title {
-  color: var(--primary-darker);
-  font-size: var(--text-xl);
-}
 
 .section-subtitle {
   color: var(--content);
@@ -214,6 +216,14 @@ ul {
   font-size: var(--text-m);
   margin-top: 2rem;
 }
+
+.para-subtitle {
+  color: var(--primary-darker);
+  font-size: var(--text-base);
+  font-weight: var(--bold);
+}
+
+
 
 q,
 blockquote {
