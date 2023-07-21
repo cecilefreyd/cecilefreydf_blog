@@ -12,6 +12,7 @@ html {
   --regular: 400;
 
   --text-base: 1rem;
+  --text-s: 1.5rem;
   --text-m: 2rem;
   --text-l: 2.5rem;
   --text-xl: 3rem;
@@ -38,7 +39,8 @@ body {
     margin-top: 16px;
     margin-left: 16px;
     margin-right: 16px;
-    width: 100%;
+    width: auto;
+    
   }
 }
 
@@ -174,7 +176,7 @@ fieldset {
 ul {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: .75rem;
 }
 
 /*section*/
@@ -207,20 +209,24 @@ ul {
 
 
 .section-subtitle {
-  color: var(--content);
+  color: var(--primary-darker);
   font-size: var(--text-l);
+  margin-bottom: 0.75rem;
 }
 
 .para-title {
   color: var(--secondary);
   font-size: var(--text-m);
   margin-top: 2rem;
+  margin-bottom: 1rem;
 }
 
 .para-subtitle {
   color: var(--primary-darker);
-  font-size: var(--text-base);
+  font-size: var(--text-s);
   font-weight: var(--bold);
+  margin-bottom: 0;
+  margin-top: 1.5rem;
 }
 
 
