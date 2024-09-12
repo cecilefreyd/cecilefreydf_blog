@@ -3,12 +3,12 @@
 
 <head>
     <meta charset="utf-8">
-    <title> Partie 3 sur 4 : L'écriture inclusive, ce n'est pas que le point médian. El famaso point médian
+    <title> Partie 3 sur 4 : L'écriture inclusive, ce n'est pas que le point médian. El famaso point médian
 
     </title>
     <link rel="shortcut icon" href="favicon_io/favicon.ico" type="image/x-icon">
 
-    <meta name="title" content="Partie 3 sur 4 : L'écriture inclusive, ce n'est pas que le point médian. El famoso point médian">
+    <meta name="title" content="Partie 3 sur 4 : L'écriture inclusive, ce n'est pas que le point médian. El famoso point médian">
     <meta name="description" content="Dans ce troisième article série sur l'écriture inclusive je reviens sur son le point médian et notamment sur rapport à la dyslexie">
 
   
@@ -30,7 +30,7 @@
 
     <article>
         <h1 id="title">L'écriture inclusive, ce n'est pas que le point médian </h1>
-        <h2 id="article-title"> Partie 3 sur 4 : El famoso point médian
+        <h2 id="article-title"> Partie 3 sur 4 : El famoso point médian
         </h2>
         <section>
             <section>
@@ -38,9 +38,9 @@
                 <p>
                     J’ai décidé de faire un article complet sur le point médian, non pas car j’ai une passion
                     particulière pour même si j’avoue avoir une petite jubilation à l’utiliser (et qu’il est fortement
-                    pratique à utiliser), mais car il est le centre de beaucoup de critiques, idées reçues et paniques !
+                    pratique à utiliser), mais car il est le centre de beaucoup de critiques, idées reçues et paniques !
                 </p>
-                <p>Pour commencer, définissons ce qu’est le point médian : il s’agit simplement d’une abréviation ou
+                <p>Pour commencer, définissons ce qu’est le point médian : il s’agit simplement d’une abréviation ou
                     convention typographique pour signaler les deux formes d’un même mot. Développeur devient
                     développeur·euse.
                 </p>
@@ -52,11 +52,11 @@
                 </p>
 
                 <img src="../images/articles_ecriture_inclusive/structure-pt-median.png"
-                    alt="schéma expliquant la structure : racine du mot + suffixe masculin + point médian + suffixe féminin + marque au pluriel">
+                    alt="schéma expliquant la structure : racine du mot + suffixe masculin + point médian + suffixe féminin + marque au pluriel">
             </section>
 
             <section>
-                <h3 class="section-title ">Comment prononcer à l’oral ?
+                <h3 class="section-title ">Comment prononcer à l’oral ?
                 </h3>
                 <p>De la même manière qu’à l’oral, on ne dit pas “m majuscule point” pour M. de monsieur, on ne prononce
                     pas “étudiant point médian e”. À l’oral, nous allons simplement déplier les deux termes et utiliser
@@ -64,11 +64,11 @@
                 </p>
             </section>
             <section>
-                <h3 class="section-title ">Pourquoi le point médian plutôt qu’un autre signe ?
+                <h3 class="section-title ">Pourquoi le point médian plutôt qu’un autre signe ?
                 </h3>
                 <p>On voit régulièrement l’usage d’autres signes en remplacement du point médian, voyons pourquoi ils ne
                     sont pas adaptés à cet usage. Attention, il ne s’agit pas d’interdire, suivant le contexte, ces
-                    moyens peuvent très bien être pertinents !
+                    moyens peuvent très bien être pertinents !
                 </p>
                 <section>
                     <h4 class="section-subtitle">Les parenthèses ()</h4>
@@ -77,8 +77,8 @@
                     <blockquote>
                         Le choix des parenthèses pour forger des mots génériques témoignait d’une absence de réflexion
                         sur le sens de ces signes, tout en révélant trop limpidement comment l’égalité des sexes est
-                        souvent conçue : un fauteuil pour Monsieur, un strapontin pour Madame
-                        <cite>Page 10 du “Le langage inclusif : pourquoi, comment ?” Éliane Viennot, 2018
+                        souvent conçue : un fauteuil pour Monsieur, un strapontin pour Madame
+                        <cite>Page 10 du “Le langage inclusif : pourquoi, comment ?” Éliane Viennot, 2018
                         </cite>
                     </blockquote>
                     <p>On évitera les passionné(e)s et autres auteur(ice)s.
@@ -97,9 +97,9 @@
                         Aujourd’hui, on retrouve davantage cet usage dans la littérature militante anticapitaliste comme
                         par
                         exemple dans cet extrait du texte <cite>Pour en finir avec les violences sexuelles et sexistes,
-                            organisons-nous pour changer la société !</cite> du NPA
+                            organisons-nous pour changer la société !</cite> du NPA
                         <q>Les violences de tout type sont aggravées pour celles et ceux qui subissent de multiples
-                            oppressions :
+                            oppressions :
                             les femmes racisées, les migrantes, les trans, les lesbiennes, touTEs celles et tous ceux
                             qui ne se
                             conforment pas à l’ordre patriarcal…”</q>
@@ -113,8 +113,8 @@
                         sociaux, il pourrait être confondu avec une URL.
                     </p>
                     <img src="../images/articles_ecriture_inclusive/twitter-pt-median.png"
-                        alt="“Une école d’ingénieur.es indiquait fin 2018 dénombrer 30 % de candidatures féminines en plus ! “ingénieur.es” apparait en tant que lien.">
-                    <p>Le point médian a l’avantage aujourd’hui de ne pas avoir d’autres usages : il est consacré à
+                        alt="“Une école d’ingénieur.es indiquait fin 2018 dénombrer 30 % de candidatures féminines en plus ! “ingénieur.es” apparait en tant que lien.">
+                    <p>Le point médian a l’avantage aujourd’hui de ne pas avoir d’autres usages : il est consacré à
                         l’écriture inclusive.
                     </p>
 
@@ -130,7 +130,7 @@
                     aujourd’hui prouvé.
                 </p>
                 <p>En 2007, Pascal Gygax et Noelia Gesto ont réalisé une étude au cours de laquelle ils ont fait lire à
-                    un panel différents textes où ils ont féminisé des noms de métiers avec différentes techniques :
+                    un panel différents textes où ils ont féminisé des noms de métiers avec différentes techniques :
                     épicène, double flexion, usage d’un tiret (que l’on identifie comme point médian).
                 </p>
                 <p>L’étude a révélé que la lecture ralentissait à la première occurrence puis qu’elle reprenait une
@@ -150,9 +150,9 @@
             <section>
                 <h3 class="section-title ">Les dyslexiques n’arrive pas à lire avec le point médian
                 </h3>
-                <em>Première chose : laisser les personnes dyslexiques tranquille ! Elles ne vous ont rien fait et ne
+                <em>Première chose : laisser les personnes dyslexiques tranquille ! Elles ne vous ont rien fait et ne
                     méritent pas de servir de caution pour vos élucubrations quand le reste du temps, le handicap, vous
-                    vous en fichez !
+                    vous en fichez !
                 </em>
                 <p>Passez ce petit coup de gueule, continuons.
                 </p>
@@ -164,12 +164,12 @@
                 </p>
                 <p>La question que pose Pascal Gygax (psycholinguiste) et Leslie Weber (étudiante en psychologie) à ce
                     sujet est <q>quelles caractéristiques de la dyslexie amèneraient à des difficultés de lecture de
-                        formes abrégées ?”
+                        formes abrégées ?”
                     </q> </p>
 
                 <p>Pour répondre à cette question, revenons sur ce qu’est la dyslexie.
                 </p>
-                <p>En 1993, l’OMS reconnaît la dyslexie comme handicap et la définie comme :
+                <p>En 1993, l’OMS reconnaît la dyslexie comme handicap et la définie comme :
                 </p>
                 <blockquote>une difficulté durable d’apprentissage de la lecture et d’acquisition de son automatisme
                     chez des enfants intelligents, normalement scolarisés et indemnes de troubles sensoriels ou
@@ -182,7 +182,7 @@
                     l’OMS, il sagirait de 8 à 12 % de la population mondiale.
                 </p>
                 <p>Ce qu’il faut avoir en tête, c’est qu’il n’existe pas un type de dyslexie, mais plusieurs avec
-                    chacunes leurs spécificités :
+                    chacunes leurs spécificités :
                 </p>
 
                 <ul>
@@ -195,10 +195,10 @@
 
                 </ul>
 
-                <p>Deux choses sont importantes : on ne guérit pas de la dyslexie. On peut apprendre à vivre avec, mais
+                <p>Deux choses sont importantes : on ne guérit pas de la dyslexie. On peut apprendre à vivre avec, mais
                     on reste dyslexique. Deuxièmement, elle peut provoquer de véritables souffrances. Le validisme de la
                     société est vecteur d’exclusion (comme c’est le cas pour de nombreux handicaps).</p>
-                <p>Vous ne savez pas ce qu’est le validisme ? Le Robert le définit comme <q>“Système faisant des
+                <p>Vous ne savez pas ce qu’est le validisme ? Le Robert le définit comme <q>“Système faisant des
                         personnes valides la norme sociale. Par extension Discrimination envers les personnes en
                         situation de handicap”.
                     </q>
@@ -209,9 +209,9 @@
                 <blockquote>le validisme se caractérise par la conviction de la part des personnes valides que leur
                     absence de handicap et/ou leur bonne santé leur confère une position plus enviable et même
                     supérieure à celle des personnes handicapées</blockquote>
-                <p>Je vous invite à lire cet article de Sud Éducation : <a href="https://www.sudeducation.org/13295-2/"
-                        alt="Ouvre un nouveau site"> Le validisme, qu’est ce que c’est ? Comment le combattre au
-                        quotidien ?</a></p>
+                <p>Je vous invite à lire cet article de Sud Éducation : <a href="https://www.sudeducation.org/13295-2/"
+                        alt="Ouvre un nouveau site"> Le validisme, qu’est ce que c’est ? Comment le combattre au
+                        quotidien ?</a></p>
 
                 <p>Maintenant que nous avons le contexte de ce qu’est la dyslexie, voyons quelles sont ses
                     caractéristiques et l’impact du point médian.
@@ -233,7 +233,7 @@
                         o-n-i-on. Autre exemple basé sur mon expérience de dyslexique. Il m’a fallu écrire environ 30
                         occurrences du mot dyslexie pour arrêter de mettre un accent au premier e car j’entendais le son /é/… Faute qui
                         me demande beaucoup d'efforts à maîtriser et que vous pouvez être sûr que je referais dès demain
-                        !
+                        !
                     </p>
                     <p> Autre caractéristique, les lettres ressemblantes sont souvent confondues et inversées. Souvent,
                         le d et le p ou le é et le è.
@@ -243,9 +243,9 @@
                         l’orthographe simplifiant le français aiderait beaucoup les dyslexiques.
                     </p>
                     <p> La question est, est-ce que l’usage du point médian (forme inclusive abrégées) est tout aussi
-                        problématique que les difficultés déjà rencontrées ?
+                        problématique que les difficultés déjà rencontrées ?
                     </p>
-                    <p> Comme le disent toujours Leslie Weber et Pascal Gygax <q>“La réponse est délicate”</q> ! </p>
+                    <p> Comme le disent toujours Leslie Weber et Pascal Gygax <q>“La réponse est délicate”</q> ! </p>
 
                     <ul>
                         <li>Les formes abrégées ne s’écrivent pas comme elles s’entendent et ne sont pas vraiment
@@ -275,7 +275,7 @@
                         et de l’écriture.
                     </p>
 
-                    <blockquote>“C’est la capacité : 1) de réfléchir et d’analyser la structure interne des mots en
+                    <blockquote>“C’est la capacité : 1) de réfléchir et d’analyser la structure interne des mots en
                         unités de sens (morphèmes) et 2) de manipuler explicitement cette structure interne. La
                         conscience morphologique est donc la compréhension que peut avoir l’individu de la structure des
                         mots en tant que combinaisons d’unités significatives qui les composent et d’en appréhender le
@@ -370,13 +370,13 @@
                     </p>
 
                     <p> Dans son travail de recherche, elle a récupérer des témoignages de personnes dys confrontés à
-                        l’écriture inclusive dont une professeure de lettre : </p>
+                        l’écriture inclusive dont une professeure de lettre : </p>
 
                     <blockquote> “Il y a quelques années, j'ai présenté aux élèves que j'avais en atelier quelques
                         groupes
                         nominaux écrits en écriture inclusive. Un instant de pause, puis les élèves eurent deux
                         réactions: "Oui, j'arrive à lire" et "Il m'a fallu deux secondes, mais ensuite je n'ai pas eu
-                        de souci." Depuis, je propose cet exercice bref, afin de savoir. Il faut le dire : de toutes les
+                        de souci." Depuis, je propose cet exercice bref, afin de savoir. Il faut le dire : de toutes les
                         élèves dys que j'ai eues à charge, aucune n'a mentionné être gênée par ce point
                         médian, mis à part ce premier instant déstabilisant.(...)”
                     </blockquote>
@@ -389,7 +389,7 @@
                         On trouve dans ce second témoignage, celui d’une étudiante en informatique, différents éléments
                         intéressants. D’une part, elle précise que ce n’est pas le point médian qui lui pose problème
                         mais
-                        plutôt la mise en page et surtout qu’elle l’utilise !</p>
+                        plutôt la mise en page et surtout qu’elle l’utilise !</p>
 
                     <blockquote>L'écriture inclusive a pour but, à mon sens, à la fois d’inclure toutes les personnes
                         indépendamment de leur genre ressenti, mais aussi à la fois de casser cette « règle » du
@@ -420,7 +420,7 @@
 
                     <p>Ce que l’on peut traduire par si vous êtes contre, vous aurez plus de difficulté que si vous y
                         êtes
-                        favorable. À vous d’en tirer vos propres conclusions !</p>
+                        favorable. À vous d’en tirer vos propres conclusions !</p>
                     <p> Elle conclut son étude par <q>De plus, il est important de rappeler que cette étude montre aussi
                             que
                             la langue écrite française reste fondamentalement inaccessible aux personnes
@@ -431,7 +431,7 @@
                                 href="    https://typo-inclusive.net/ecriture-inclusive-obstacle-infranchissable-pour-les-personnes-dys-synthese-dune-etude-de-lisibilite/#post-1418-_7t4seymnqcii"
                                 alt="Ouvre un nouveau site">l’Écriture inclusive: obstacle infranchissable pour les
                                 personnes dys
-                                ? Synthèse d’une étude de lisibilité</a> </cite>
+                                ? Synthèse d’une étude de lisibilité</a> </cite>
 
                         la graphiste Sophie Vela arrive à la même conclusion.</p>
 
@@ -460,7 +460,7 @@
 
                     </blockquote>
 
-                    <p> Je ne peux qu’être en accord avec son propos !
+                    <p> Je ne peux qu’être en accord avec son propos !
                     </p>
                 </section>
                 <section>
@@ -476,12 +476,12 @@
                         question sans définir ce qu’est l’écriture inclusive. Au vu du manque de contexte et de
                         connaissance des personnes du sujet (dû notamment à son traitement médiatique), les répondantes
                         et répondants
-                        ont sans doute répondu à la question “Faut-il interdire le point médian à l’université ?” Ce qui
+                        ont sans doute répondu à la question “Faut-il interdire le point médian à l’université ?” Ce qui
                         est totalement différent de faut-il “interdire la féminisation des noms de métier et grades, des
-                        formulations épicènes et englobantes, la double flexion et le point médian ?” Un grand exemple
-                        de probité (ironie) !
+                        formulations épicènes et englobantes, la double flexion et le point médian ?” Un grand exemple
+                        de probité (ironie) !
                     </p>
-                    <p> “L'écriture inclusive est-elle néfaste pour les dyslexiques ?” est le type de titre d’articles
+                    <p> “L'écriture inclusive est-elle néfaste pour les dyslexiques ?” est le type de titre d’articles
                         que l’on trouve régulièrement dans une certaine presse. Dans cet article que je invite à ne pas
                         lire (pour votre santé mentale), nous retrouvons beaucoup de bêtises dont une définition
                         totalement fausse de l’écriture épicène.</p>
